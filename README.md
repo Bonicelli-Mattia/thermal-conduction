@@ -8,7 +8,7 @@ Calculation of the residual:
 ![residual](https://i.imgur.com/o4wwVxR.png)    
     
 # Parameters    
-DXNUM = number of columns to simulate
+DXNUM = number of columns to simulate   
 DYNUM = number of rows to simulate  
 ERR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= convergence error   
     
